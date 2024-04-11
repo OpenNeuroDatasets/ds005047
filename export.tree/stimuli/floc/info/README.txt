@@ -1,1 +1,0 @@
-More details can be viewed in the data decriptor paper, which will be coming soon.
