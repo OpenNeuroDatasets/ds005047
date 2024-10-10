@@ -1,0 +1,8 @@
+{
+  "head motion trace": {
+    "Description": "Head motion parameters obtained through fMRI data preprocessing.In fMRI data processing and analysis, head motion is a critical factor as it can affect data quality. To correct for motion artifacts, six motion parameters are typically recorded and adjusted. These parameters can be categorized into two types: translational and rotational.\n\n**Translational Parameters:**\n\n1. **X Translation (Translational X)**: Movement along the X-axis, usually representing left-right motion.\n2. **Y Translation (Translational Y)**: Movement along the Y-axis, usually representing anterior-posterior motion.\n3. **Z Translation (Translational Z)**: Movement along the Z-axis, usually representing superior-inferior motion.\n\n**Rotational Parameters:**\n\n1. **X Rotation (Rotational X)**: Rotation around the X-axis, usually representing head nodding motion.\n2. **Y Rotation (Rotational Y)**: Rotation around the Y-axis, usually representing head shaking motion.\n3. **Z Rotation (Rotational Z)**: Rotation around the Z-axis, usually representing head tilting motion."
+  },
+  "Head-motion-parameters_data": {
+    "Description": "please visit:https://openneuro.org/datasets/ds005047/derivatives/pre-processed_volume_data/sub-03/sub-03_ses-010_task-face_space-indivudual_desc-volume_run-05_timeseries.tsv"
+  }
+}
