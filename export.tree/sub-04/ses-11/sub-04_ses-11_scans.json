@@ -1,9 +1,0 @@
-{
-  "filename": {
-    "Description": "Name of the nifti file"
-  },
-  "task_type": {
-    "LongName": "task_type",
-    "Description": "task type of the particular scan"
-  }
-}
