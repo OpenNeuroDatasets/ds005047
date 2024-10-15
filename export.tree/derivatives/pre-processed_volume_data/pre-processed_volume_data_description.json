@@ -1,0 +1,8 @@
+{
+  "pre-processed_volume_data": {
+    "Description": "The pre-processed volume-based fMRI data were in the folder named “pre-processed_volume_data/sub-<subID>/ses-<sesID>” (Fig. 2d). A “sub-<subID>_ses-<sesID>_task-<taskID>_desc-preproc_volume_run-<runID>.nii” file stores the pre-processed volumes data of a run. A “sub-<subID>_ses-<sesID>_task-<taskID>_desc-preproc_volume_mean.nii” file stores the mean of the pre-processed volume data of a session. A “sub-<subID>_ses-<sesID>_task-<taskID>_desc-preproc_volume_run-<runID>_timeseries.tsv” file stores the head motion of participants. The parameters of co-registration alignment for a session were stored in the folder named “sub-<subID>_ses-<sesID>_task-<taskID>_alignment”."
+  },
+  "code": {
+    "Description": "please visit:http://surfer.nmr.mgh.harvard.edu"
+  }
+}
